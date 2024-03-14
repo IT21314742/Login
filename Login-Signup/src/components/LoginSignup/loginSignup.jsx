@@ -8,7 +8,9 @@ import password_icon from '../Assets/password.png'
 export const loginSignup = () => {
   return (
     <div className="container">
-        <div className="header"></div>
+        <div className="header">
+            <div className="text">SignUp</div>
+        </div>
     </div>
   )
 }
