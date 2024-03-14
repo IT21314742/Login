@@ -13,7 +13,9 @@ export const loginSignup = () => {
             <div className="underline"></div>
         </div>
         <div className="inputs">
-            <div className="input"></div>
+            <div className="input">
+                <img src="" alt="" />
+            </div>
         </div>
     </div>
   )
