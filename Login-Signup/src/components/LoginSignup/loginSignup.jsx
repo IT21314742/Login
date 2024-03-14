@@ -15,6 +15,7 @@ export const loginSignup = () => {
         <div className="inputs">
             <div className="input">
                 <img src="" alt="" />
+                <input type="text" />
             </div>
         </div>
     </div>
