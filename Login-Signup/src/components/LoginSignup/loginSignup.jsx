@@ -24,7 +24,7 @@ export const loginSignup = () => {
             </div>
 
             <div className="input">
-                <img src="" alt="" />
+                <img src={password_icon} alt="" />
                 <input type="password" />
             </div>
         </div>
