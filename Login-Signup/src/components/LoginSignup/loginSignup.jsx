@@ -19,7 +19,7 @@ export const loginSignup = () => {
             </div>
 
             <div className="input">
-                <img src="" alt="" />
+                <img src={email_icon} alt="" />
                 <input type="email" />
             </div>
 
