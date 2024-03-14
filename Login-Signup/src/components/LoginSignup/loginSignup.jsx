@@ -9,7 +9,7 @@ export const loginSignup = () => {
   return (
     <div className="container">
         <div className="header">
-            <div className="text">SignUp</div>
+            <div className="text">Sign Up</div>
         </div>
     </div>
   )
