@@ -4,8 +4,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      <header>
-      </header>
+      <LoginSignup/>
     </div>
   );
 }
