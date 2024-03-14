@@ -29,7 +29,8 @@ export const loginSignup = () => {
             </div>
         </div>
         <div className="submit-container">
-            <div className="submit"></div>
+            <div className="submit">Sign Up</div>
+
         </div>
     </div>
   )
